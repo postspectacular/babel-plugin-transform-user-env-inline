@@ -1,0 +1,12 @@
+{
+    "name": "babel-plugin-transform-user-env-inline",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "description": "Inlines user defined environment variables and optionally/statically evaluates conditionals",
+    "keywords": [
+        "babel-plugin",
+        "env var",
+        "inline"
+    ]
+}
